@@ -54,4 +54,4 @@ We also provide maze data at `public/maze.txt` as an example.
 
 ## Preview
 Below is a preview of the Maze Solver GUI interface in action.
-[![nKIgqJ.preview.png](https://i.im.ge/2025/10/24/nKIgqJ.preview.png)](https://im.ge/i/nKIgqJ)
+[![preview.png](https://raw.githubusercontent.com/naufalhanif25/maze-solver-gui/refs/heads/main/assets/preview.png)](https://github.com/naufalhanif25/maze-solver-gui/blob/main/assets/preview.png)
