@@ -49,7 +49,7 @@ Make sure the following are installed on your system:
     python main.py
     ```
 
-**Note**
+**Note:**
 We also provide maze data at `public/maze.txt` as an example.
 
 ## Preview
